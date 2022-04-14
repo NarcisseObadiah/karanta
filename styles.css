@@ -35,3 +35,7 @@ a#k::first-letter {
     border-radius: 100%;
     color: #f8f9fa;
   }
+  .card:hover{
+	background-color: #007BFF;
+	color: white;
+}
